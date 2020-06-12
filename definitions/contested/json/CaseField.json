@@ -2460,5 +2460,14 @@
     "Label": "Exception Record Reference",
     "FieldType": "Text",
     "SecurityClassification": "Public"
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "FinancialRemedyMVP2",
+    "ID": "generalLetterCollection",
+    "Label": "General Letter",
+    "FieldType": "Collection",
+    "FieldTypeParameter": "FR_GeneralLetterDocument",
+    "SecurityClassification": "Public"
   }
 ]
