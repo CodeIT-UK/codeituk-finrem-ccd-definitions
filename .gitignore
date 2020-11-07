@@ -12,3 +12,4 @@ package-lock.json
 definitions/consented/json/**/*-common*
 definitions/contested/json/**/*-common*
 .settings
+ccd-definition-processor/
